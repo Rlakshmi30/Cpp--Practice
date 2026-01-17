@@ -10,7 +10,7 @@ int main()
     string str;
 
     cout << "Enter a String: " << endl;
-    getline(cin >> ws, str);
+    getline(cin, str);
 
     cout << "Enter Three Integer: ";
     cin >> x >> y >> z;
